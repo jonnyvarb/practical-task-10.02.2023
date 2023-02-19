@@ -1,3 +1,5 @@
 value = int(input('Введите число: '))
 for i in range(value):
-    print(value, end = '/t')
+    print(i, end = '/t')
+
+print(value)

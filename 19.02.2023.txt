@@ -3,3 +3,4 @@ for i in range(value):
     print(i, end = '/t')
 
 print(value)
+print()

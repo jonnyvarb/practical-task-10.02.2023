@@ -5,3 +5,5 @@ for i in range(value):
 print('Hello World')
 print(value)
 print()
+
+print('git push')

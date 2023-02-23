@@ -2,5 +2,6 @@ value = int(input('Введите число: '))
 for i in range(value):
     print(i, end = '/t')
 
+print('Hello World')
 print(value)
 print()
